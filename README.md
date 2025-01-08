@@ -17,7 +17,7 @@ ALSO BACKUP `/System/Library/CoreServices/SystemAppearance.bundle` BEFORE DOING 
 3. Reboot and finally onto the terminal and type
    `sudo mount -uw /` <-- unlocks the system for modification
 
-4. Copy `VibrantLightApperance.car` and Go to `/System/Library/CoreServices/SystemAppearance.bundle` and right click `Show Package Contents` and Go to `Contents/Resources`
+4. Copy `VibrantLightApperance.car` and go to `/System/Library/CoreServices/SystemAppearance.bundle` and right click `Show Package Contents` and Go to `Contents/Resources`
    Paste `VibrantLightAppearance.car`
    - Alternatively type into the terminal `sudo cp VibrantLightAppearance.car /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/` <-- Copies the modded file to the respective file
 
